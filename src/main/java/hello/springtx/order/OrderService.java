@@ -32,6 +32,7 @@ public class OrderService {
             order.setPayStatus("완료");
         }
         log.info("결제 프로세스 완료");
+        
 
     }
 }
